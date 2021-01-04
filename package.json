@@ -2,10 +2,9 @@
     "name": "MuxEmail_Backend_Assignment",
     "version": "1.0.0",
     "description": "A Simple API written for MuxEmail Backend Assignment",
-    "license": "MIT",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/itsknk/MuxEmailBackendAssignment.git"
     },
     "scripts": {
         "start": "node ./index.js",
